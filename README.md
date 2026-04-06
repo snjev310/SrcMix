@@ -159,7 +159,24 @@ Metrics:
 If you use this dataset or the associated research in your work, please cite it as follows:
 
 ```bibtex
-We will provide the final BibTeX entry once the paper is publicly available through the EACL proceedings.
+@inproceedings{kumar-etal-2026-srcmix,
+    title = "{S}rc{M}ix: Mixing of Related Source Languages Benefits Extremely Low-resource Machine Translation",
+    author = "Kumar, Sanjeev  and
+      Jyothi, Preethi  and
+      Bhattacharyya, Pushpak",
+    editor = "Demberg, Vera  and
+      Inui, Kentaro  and
+      Marquez, Llu{\'i}s",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EACL} 2026",
+    month = mar,
+    year = "2026",
+    address = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-eacl.332/",
+    doi = "10.18653/v1/2026.findings-eacl.332",
+    pages = "6306--6323",
+    ISBN = "979-8-89176-386-9",
+}
 
 ```
 ------------------------------------------------------------------------
